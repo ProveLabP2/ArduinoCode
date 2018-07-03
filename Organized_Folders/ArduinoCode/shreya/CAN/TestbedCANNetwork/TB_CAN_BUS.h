@@ -1,3 +1,0 @@
-#define S_ID 0x10
-#define T_ID 0x20
-#define B_ID 0x30
