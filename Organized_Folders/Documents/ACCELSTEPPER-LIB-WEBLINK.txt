@@ -1,5 +1,0 @@
-https://www.arduinolibraries.info/libraries/accel-stepper
-
-http://www.airspayce.com/mikem/arduino/AccelStepper/
-
-http://www.airspayce.com/mikem/arduino/AccelStepper/classAccelStepper.html
